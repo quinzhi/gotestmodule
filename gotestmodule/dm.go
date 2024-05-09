@@ -4,6 +4,6 @@ package gotestmodule
 import "fmt"
 
 
-func te(){
+func Te(){
 	fmt.Println("Hello World!")
 }
