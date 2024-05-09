@@ -1,6 +1,5 @@
 package gotestmodule
 
-
 import (
 	"database/sql"
 	"fmt"
