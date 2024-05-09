@@ -1,9 +1,7 @@
 package gotestmodule
 
 
-import (
-	"fmt"
-)
+import "fmt"
 
 
 func te(){
